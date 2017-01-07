@@ -1,13 +1,15 @@
 # VueChatRobot
 
-> 基于Vue 2.0的简单聊天机器人
+> 基于Vue 2.0的简单聊天机器人 [在线演示](https://xinufo.github.io/demo/VueChatRobot/index.html)
+
+- 样式不会写，直接搞了个和图灵机器人官网一样的
 
 ## 技术栈
 
-- vue 2.0
-- vue-resource
-- webpack
-- 图灵机器人API
+- [vue 2.0](http://cn.vuejs.org/)
+- [vue-resource](https://github.com/pagekit/vue-resource)
+- [webpack](https://github.com/webpack/webpack)
+- [图灵机器人API](http://www.tuling123.com/help/h_cent_webapi.jhtml?nav=doc)
 
 ## 总结
 
