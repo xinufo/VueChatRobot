@@ -3,6 +3,7 @@
 > 基于Vue 2.0的简单聊天机器人 [在线演示](https://xinufo.github.io/demo/VueChatRobot/index.html)
 
 - 样式不会写，直接搞了个和图灵机器人官网一样的
+- 由于github pages和图灵机器人API使用的协议不同，浏览器会提示Mixed Content警告，允许即可
 
 ## 技术栈
 
